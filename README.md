@@ -42,8 +42,8 @@ To be a power user of Claude.
 * 🧩 [Image-Merger](https://github.com/SubhasisDutta/Image-Merger) - A handy image processing script that stitches multiple small magnified images into one high-quality, seamless picture.
 
 ### 💡 Philosophy & Quick Facts
-* If you need something, just build it.
-* *"Keep it simple and practical."* I prefer writing clean, concise code without unnecessary jargon.
+* *"If you need something, just build it."*
+* *"Keep it simple and practical."* 
 * Favorite Stack: Python > JavaScript > \o/ .
 * Always learning and experimenting with new ways to extract data, automate tedious tasks, and build applications.
 
