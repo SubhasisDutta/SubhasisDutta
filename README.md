@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Subhasis 👋
+
+📍 Software Developer | 🐍 Python & ☕ Java Enthusiast | 🤖 Machine Learning Explorer
+
+Welcome to my GitHub! I love building practical tools, exploring machine learning concepts, and writing clean code. 
+I mostly work with Python, Java, and JavaScript to solve real-world problems.
 
 <!--
 **SubhasisDutta/SubhasisDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
