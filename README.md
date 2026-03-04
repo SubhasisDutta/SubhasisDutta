@@ -47,7 +47,7 @@ To be a power user of Claude.
 * Favorite Stack: Python > JavaScript > \o/ .
 * Always learning and experimenting with new ways to extract data, automate tedious tasks, and build applications.
 
-*If you want to connect, feel free to reach out or explore my repositories above!*
+*If you want to [connect](mailto:subhasis300887@gmail.com), feel free to reach out or explore my repositories above!*
 
 
 
