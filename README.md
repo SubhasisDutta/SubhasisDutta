@@ -30,9 +30,9 @@ To be a power user of Claude.
 
 ## 🚀 Current Projects
 
-* 📅 [Weekly Task Planner](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis. <a href="https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>
-* 🔐 [Life Vault](https://github.com/SubhasisDutta/life-vault) - A personal data storage and organization application to securely keep track of important milestones and documents. [Chrome Web Store](https://chromewebstore.google.com/detail/life-vault/hfpbcljbcmjboonebfadiccegbhfdobc)
-* ⏳ [4000_weeks](https://github.com/SubhasisDutta/4000_weeks) - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday. [Chrome Web Store](https://chromewebstore.google.com/detail/life-expectancy-calculato/igccbagnkihbmpglmaigbdkfcphafhpi)
+* 📅 [Weekly Task Planner](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis. |<a href="https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>|
+* 🔐 [Life Vault](https://github.com/SubhasisDutta/life-vault) - A personal data storage and organization application to securely keep track of important milestones and documents. |[Chrome Web Store](https://chromewebstore.google.com/detail/life-vault/hfpbcljbcmjboonebfadiccegbhfdobc)|
+* ⏳ [4000_weeks](https://github.com/SubhasisDutta/4000_weeks) - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday. |[Chrome Web Store](https://chromewebstore.google.com/detail/life-expectancy-calculato/igccbagnkihbmpglmaigbdkfcphafhpi)|
 
 ## 🗄️ Legacy Works
 * 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities.
