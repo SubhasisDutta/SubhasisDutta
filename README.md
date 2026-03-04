@@ -30,12 +30,14 @@ To be a power user of Claude.
 
 ## 🚀 Featured Projects
 
-* 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities. (Java)
-* 🖼️ Wireframe-Identification-Engine - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code. (JavaScript)
-* 📰 CAMEO-JRC-Database - A data pipeline for coding political conflict and cooperation events across multiple languages like English, Arabic, and Spanish. (Python)
-* 📝 Text-Analysis - A flexible analytics framework to extract entities, topics, sentiments, and keywords from unstructured text. (Python)
-* 🧩 Image-Merger - A handy image processing script that stitches multiple small magnified images into one high-quality, seamless picture. (Python)
-* ⏳ 4000_weeks - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday. (JavaScript)
+* 📅 [Weekly Task Planner](https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa) [Repo](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis.
+* 🔐 life-vault - A personal data storage and organization application to securely keep track of important milestones and documents.
+* 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities.
+* 🖼️ Wireframe-Identification-Engine - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code.
+* 📰 CAMEO-JRC-Database - A data pipeline for coding political conflict and cooperation events across multiple languages like English, Arabic, and Spanish.
+* 📝 Text-Analysis - A flexible analytics framework to extract entities, topics, sentiments, and keywords from unstructured text.
+* 🧩 Image-Merger - A handy image processing script that stitches multiple small magnified images into one high-quality, seamless picture.
+* ⏳ 4000_weeks - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday.
   
 ### 🛠️ Quick Snippets & Tools (Gists)
 * 🕷️ Web Crawlers: Simple scripts for maximum depth crawling and page limit crawling.
@@ -44,10 +46,10 @@ To be a power user of Claude.
 
 ### 💡 Philosophy & Quick Facts
 * "Keep it simple and practical." I prefer writing clean, concise code without unnecessary jargon.
-* Favorite Stack: Python > Java > JavaScript.
-* Always learning and experimenting with new ways to extract data, automate tedious tasks, and build secure applications.
+* Favorite Stack: Python > JavaScript > \o/ .
+* Always learning and experimenting with new ways to extract data, automate tedious tasks, and build applications.
 
-**If you want to connect, feel free to reach out or explore my repositories above!**
+*If you want to connect, feel free to reach out or explore my repositories above!*
 
 
 
