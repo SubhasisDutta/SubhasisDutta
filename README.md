@@ -34,7 +34,7 @@ To be a power user of Claude.
 * 🔐 [Life Vault](https://github.com/SubhasisDutta/life-vault) - A personal data storage and organization application to securely keep track of important milestones and documents. [Chrome Web Store](https://chromewebstore.google.com/detail/life-vault/hfpbcljbcmjboonebfadiccegbhfdobc)
 * ⏳ [4000_weeks](https://github.com/SubhasisDutta/4000_weeks) - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday. [Chrome Web Store](https://chromewebstore.google.com/detail/life-expectancy-calculato/igccbagnkihbmpglmaigbdkfcphafhpi)
 
-## Legacy Works
+## 🗄️ Legacy Works
 * 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities.
 * 🖼️ [Wireframe-Identification-Engine](https://github.com/SubhasisDutta/Wireframe-Identification-Engine) - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code.
 * 📰 [CAMEO-JRC-Database](https://github.com/SubhasisDutta/CAMEO-JRC-Database) - A data pipeline for coding political conflict and cooperation events across multiple languages like English, Arabic, and Spanish.
