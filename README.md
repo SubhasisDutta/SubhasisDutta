@@ -28,21 +28,18 @@ To be a power user of Claude.
 ### 👯 I’m looking to collaborate on ...
 ¯\_(ツ)_/¯
 
-## 🚀 Featured Projects
+## 🚀 Current Projects
 
 * 📅 [Weekly Task Planner](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis. <a href="https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>
-* 🔐 life-vault - A personal data storage and organization application to securely keep track of important milestones and documents.
+* 🔐 [Life Vault](https://github.com/SubhasisDutta/life-vault) - A personal data storage and organization application to securely keep track of important milestones and documents. [Chrome Web Store](https://chromewebstore.google.com/detail/life-vault/hfpbcljbcmjboonebfadiccegbhfdobc)
+* ⏳ [4000_weeks](https://github.com/SubhasisDutta/4000_weeks) - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday. [Chrome Web Store](https://chromewebstore.google.com/detail/life-expectancy-calculato/igccbagnkihbmpglmaigbdkfcphafhpi)
+
+## Legacy Works
 * 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities.
-* 🖼️ Wireframe-Identification-Engine - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code.
-* 📰 CAMEO-JRC-Database - A data pipeline for coding political conflict and cooperation events across multiple languages like English, Arabic, and Spanish.
-* 📝 Text-Analysis - A flexible analytics framework to extract entities, topics, sentiments, and keywords from unstructured text.
-* 🧩 Image-Merger - A handy image processing script that stitches multiple small magnified images into one high-quality, seamless picture.
-* ⏳ 4000_weeks - A motivational Chrome extension that calculates and displays the approximate number of weeks you have left to live based on your birthday.
-  
-### 🛠️ Quick Snippets & Tools (Gists)
-* 🕷️ Web Crawlers: Simple scripts for maximum depth crawling and page limit crawling.
-* 🔐 Hashing: Implementations for generating MD5, SHA1, and SHA256 hashes in Python.
-* ✂️ String Splitter: A neat Python script to split strings by multiple punctuation characters.
+* 🖼️ [Wireframe-Identification-Engine](https://github.com/SubhasisDutta/Wireframe-Identification-Engine) - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code.
+* 📰 [CAMEO-JRC-Database](https://github.com/SubhasisDutta/CAMEO-JRC-Database) - A data pipeline for coding political conflict and cooperation events across multiple languages like English, Arabic, and Spanish.
+* 📝 [Text-Analysis](https://github.com/SubhasisDutta/Text-Analysis) - A flexible analytics framework to extract entities, topics, sentiments, and keywords from unstructured text.
+* 🧩 [Image-Merger](https://github.com/SubhasisDutta/Image-Merger) - A handy image processing script that stitches multiple small magnified images into one high-quality, seamless picture.
 
 ### 💡 Philosophy & Quick Facts
 * "Keep it simple and practical." I prefer writing clean, concise code without unnecessary jargon.
