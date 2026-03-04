@@ -30,7 +30,7 @@ To be a power user of Claude.
 
 ## 🚀 Featured Projects
 
-* 📅 [Weekly Task Planner](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis. <a href="(https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>
+* 📅 [Weekly Task Planner](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis. <a href="https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>
 * 🔐 life-vault - A personal data storage and organization application to securely keep track of important milestones and documents.
 * 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities.
 * 🖼️ Wireframe-Identification-Engine - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code.
