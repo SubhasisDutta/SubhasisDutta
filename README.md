@@ -1,6 +1,6 @@
 ## Hi, I'm Subhasis 👋
 
-📍 Software Developer | 🐍 Python & ☕ Java Enthusiast | 🤖 Machine Learning Explorer
+📍 Software Builder | 🐍 Python & ☕ Java Enthusiast | 🤖 Machine Learning Explorer
 
 Welcome to my GitHub! I love building practical tools, exploring machine learning concepts, and writing clean code. 
 I mostly work with Python, Java, and JavaScript to solve real-world problems.
