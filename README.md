@@ -19,9 +19,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔭 I’m currently working on ...
+Building useful Chrome Extensions.
+
+### 🌱 I’m currently learning ...
+To be a power user of Claude.
+
+### 👯 I’m looking to collaborate on ...
+¯\_(ツ)_/¯
+
 ## 🚀 Featured Projects
 
-* 📱 Android-APK-Analysis - A security tool that performs static analysis on Android apps to find potential vulnerabilities. (Java)
+* 📱 [Android-APK-Analysis](https://github.com/SubhasisDutta/Android-APK-Analysis) - A security tool that performs static analysis on Android apps to find potential vulnerabilities. (Java)
 * 🖼️ Wireframe-Identification-Engine - An ML-powered concept demonstrator that automatically converts wireframe design images into working UI code. (JavaScript)
 * 📰 CAMEO-JRC-Database - A data pipeline for coding political conflict and cooperation events across multiple languages like English, Arabic, and Spanish. (Python)
 * 📝 Text-Analysis - A flexible analytics framework to extract entities, topics, sentiments, and keywords from unstructured text. (Python)
