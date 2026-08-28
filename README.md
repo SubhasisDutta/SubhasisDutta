@@ -8,7 +8,7 @@ I mostly work with Python, Java, and JavaScript to solve real-world problems.
 ### 👯 I’m looking to collaborate on ...
 ¯\_(ツ)_/¯
 
-## 🚀 Current Projects
+## 🚀 Apps Built 
 
 * 📈 [Stock Timelines](https://stocktimelines.com/) - Daily trending stocks and a running journal of independent equity research.
 * 🤯 [Emoji Compass](https://emoji.ozlorienlabs.com) - Search a feeling or an icon & create build a message using Chrome's in built LLM.
