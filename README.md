@@ -11,6 +11,7 @@ I mostly work with Python, Java, and JavaScript to solve real-world problems.
 ## 🚀 Current Projects
 
 * 📈 [Stock Timelines](https://stocktimelines.com/) - Daily trending stocks and a running journal of independent equity research.
+* 🤯 [Emoji Compass](https://emoji.ozlorienlabs.com) - Search a feeling or an icon & create build a message using Chrome's in built LLM.
 * 📋 [Driver Licence Test Practice](https://tinyurl.com/driver-license-test) - Free, mobile-friendly practice to Pass the California Class C Driver Licence Test.
 * ⏲️ [Pomodoro Timer](https://github.com/SubhasisDutta/cat_extension) - A Chrome extension that enforces pomodoro breaks via an annoyed, entitled, unbothered orange cat. ||<a href="https://chromewebstore.google.com/detail/fat-orange-cat/bcjmhdppcnehbcnnhgmfdombegbfcmgp" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>||
 * 📅 [Weekly Task Planner](https://github.com/SubhasisDutta/todo_this_week) - A focused task management tool designed to help organize and prioritize your goals on a weekly basis. ||<a href="https://chromewebstore.google.com/detail/weekly-task-planner/pokfkbeeopjciimocgohkhoclplhlmaa" target="_blank" rel="noopener noreferrer">Chrome Web Store</a>||
