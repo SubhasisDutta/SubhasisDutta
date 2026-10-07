@@ -13,7 +13,7 @@ Proud member of the maker collective at [**OzLorien Labs**](https://www.ozlorien
 
 ## 🚀 Apps Built 
 
-Curated demos and products hand-crafted or co-built, also featured across [**OzLorien Labs**](https://www.ozlorienlabs.com/browse):
+Featured across [**OzLorien Labs**](https://www.ozlorienlabs.com/browse):
 
 * 📈 **[Stock Timelines](https://www.ozlorienlabs.com/apps/stock-timelines)** `Web App` — The stock market, read like a story. Five AI analyst personas (Growth, Bear, Value, Moat, Quant) debate price targets with cited SEC 13F sources and dual Claude + Gemini comparisons.  
   ↳ [Live App](https://stocktimelines.ozlorienlabs.com)
