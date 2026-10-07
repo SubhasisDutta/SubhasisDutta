@@ -10,7 +10,7 @@ Proud member of the maker collective at [**OzLorien Labs**](https://www.ozlorien
 ### 👯 I’m looking to collaborate on ...
 ¯\_(ツ)_/¯
 
-*Translation:* Quirky web apps, client-side utilities, on-device AI experiments, or anything where two LLMs can argue with each other until the answer makes sense. If you've got an interesting idea, let's talk!
+*Translation:* Quirky web apps, client-side utilities, on-device AI experiments, or anything where two LLMs can argue with each other until the answer makes sense. If you've got an interesting idea, let's talk!*
 
 ## 🚀 Apps Built 
 
